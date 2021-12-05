@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BloaminOnion
-- 👀 I’m interested in ethical applications of machine learning and/or data science, cybersecurity, and climate science.
+- 👀 I’m interested in ethical applications of machine learning/data science, cybersecurity, and climate science.
 - 🌱 I’m currently learning about quantum machine learning, topological data analysis, and mathematical modeling.
 - 💞️ I’m looking to collaborate on game-related projects, mathematical software, and scientific programming projects.
 - 📫 How to reach me ... TBD
